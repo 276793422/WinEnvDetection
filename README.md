@@ -1,0 +1,2 @@
+# WinEnvDetection
+前一阵子写的一个Windows下的程序执行环境检测类
